@@ -59,6 +59,9 @@ ul li:hover a
 .submenulists
 {
     width: 23%;
+    /* orignial 23% */
+    /* If width is 15% 6 levels can be added */
+    /* If width is 13% 7 levels can be added */
     float: left;
 }
 
